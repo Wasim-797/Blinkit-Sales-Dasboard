@@ -1,17 +1,20 @@
 # Blinkit-Sales-Dasboard
 1) Blinkit Sales Analytics Dashboard
+
 An interactive and insight-driven Power BI dashboard built to analyze Blinkit’s sales performance, customer ratings, outlet distribution, and product trends across multiple outlet types, sizes, and locations. The dashboard provides a comprehensive overview of business performance and helps uncover actionable insights for retail optimization and strategic decision-making.
+
+
 2) Purpose
 The Blinkit Sales Analytics Dashboard is a dynamic Power BI report designed to monitor and analyze key retail metrics such as total sales, average sales, item performance, outlet establishment trends, and customer ratings.
 This dashboard enables businesses, analysts, and decision-makers to identify high-performing outlet categories, understand consumer purchasing patterns, and optimize operational strategies through interactive visual analytics.
-3) Tech Stack
+4) Tech Stack
 • 📊 Power BI Desktop – Main data visualization platform used for creating interactive reports and dashboards.
 • 📂 Power Query – Used for data cleaning, transformation, and preprocessing.
 • 🧠 DAX (Data Analysis Expressions) – Implemented for calculated measures, KPIs, and dynamic insights.
 • 🔗 Data Modeling – Relationships between sales, outlet, and product datasets enabled efficient cross-filtering and analysis.
 • 📈 Data Visualization – Interactive charts, KPI cards, slicers, donut charts, and bar graphs for business storytelling.
 
-4) Data Source
+5) Data Source
 Source: Kaggle – Blinkit Grocery Sales Dataset
 
 The dataset was sourced from Kaggle and contains structured retail sales data related to Blinkit’s grocery operations. It includes information such as:
