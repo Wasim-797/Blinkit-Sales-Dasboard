@@ -181,3 +181,5 @@ Customer rating analysis helps evaluate satisfaction levels and improve overall 
 Interactive filtering and dynamic visuals enable faster, data-driven business decisions.
 
 📷 Dashboard Preview
+
+https://github.com/Wasim-797/Blinkit-Sales-Dasboard/blob/main/Blinkit_Dashboard.png
