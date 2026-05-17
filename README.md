@@ -182,5 +182,4 @@ Interactive filtering and dynamic visuals enable faster, data-driven business de
 
 📷 Dashboard Preview
 
-Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+ ![Dashboard Preview](https://github.com/Wasim-797/Blinkit-Sales-Dasboard/blob/main/Blinkit_Dashboard.png)
